@@ -1,4 +1,4 @@
-# 📄 Multi-PDF Question Answering App (LangChain + FAISS + Cassandra)
+# Project 1 :  Multi-PDF Question Answering App (LangChain + FAISS + Cassandra)
 
 This project is a **PDF-based Question Answering (Q&A)** system where you can upload multiple PDF files and ask questions in natural language. It uses **LangChain**, **FAISS**, **HuggingFace**, and **Cassandra (via DataStax Astra DB)** to provide accurate answers from the documents.
 
